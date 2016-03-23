@@ -5,7 +5,8 @@ locale: en_US
 description: Software Engineer, Web and Application Developer
 logo: site-logo.png
 search: true
-# url: http://localhost:8008
+# url: http://localhost:4000
+url: http://pooyagolchian.ir
 
 # Jekyll configuration
 
