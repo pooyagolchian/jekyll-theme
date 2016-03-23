@@ -10,4 +10,4 @@
 * Support for Disqus Comments
 
 
-See a [live version of My New Jekyll Theme](http://pooya.github.io)
+See a [live version of My New Jekyll Theme](http://pooya-golchian.github.io)
