@@ -10,4 +10,4 @@
 * Support for Disqus Comments
 
 
-See a [live version of So Simple](http://pooya.github.io/so-simple-theme/)
+See a [live version of So Simple](http://pooya.github.io)
