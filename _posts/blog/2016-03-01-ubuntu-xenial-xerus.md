@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu Xenial Xerus 16.04 LTS"
 excerpt: "Migrate to Ubuntu"
-modified: 2016-03-1
+modified: 2016-03-01
 categories: blog
 excerpt:
 tags: [first-post]
