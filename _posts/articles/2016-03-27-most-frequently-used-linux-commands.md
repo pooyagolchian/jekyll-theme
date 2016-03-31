@@ -12,7 +12,7 @@ image:
   feature:
 date: 2016-03-27T20:04:47+04:30
 ---
-This post update every day! You can follow this article and learn linux command tips and tricks. Enjoy :)./var
+This post update every day! You can follow this article and learn linux command tips and tricks. Enjoy :).
 
 **1. tar command examples**
 
