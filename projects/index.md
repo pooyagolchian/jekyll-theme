@@ -9,7 +9,7 @@ image:
   <!--creditlink: -->
 ---
 
-# AxPrint.com 
+# AxPrint.com
 Senior UI developer, Drupal developer, Linux Admin at [axprint.com](http://axprint.com). 5 Sep 2015 - NOW
 
 ## My project in axprint:
@@ -22,11 +22,11 @@ Senior UI developer, Drupal developer, Linux Admin at [axprint.com](http://axpri
 
 # Rayvarz Software Engineering Company
 UI Developer, Drupal Developer [Rayvarz Software Engineering Company](http://rayvarz.com) - 1year
+
+
 ## My project in Rayvarz:
 * **Build and design [Rayvarz BPMS Portal drupal base](http://bpms.rayvarz.com)**
 
 
 # FlyFish 2D android game
 Develope and design android 2d an game, FlyFish released on IranApps [FlyFish Game on IranApp.com Application store](http://iranapps.ir/app/com.pooya.FlyFish)
-
-
