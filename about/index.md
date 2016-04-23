@@ -17,7 +17,4 @@ image:
 ## Hire Me
 You can see my resume and hiring me!
 
-
-<a markdown="0" href="{{ site.url }}/files/pooya-golchian-cv.pdf" class="btn">Download My Resume</a>
-
 [^1]: Example: *domain.com/category-name/post-title*
