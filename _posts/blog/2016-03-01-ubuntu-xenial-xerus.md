@@ -15,13 +15,16 @@ You can download this ubuntu from this [link](http://cdimage.ubuntu.com/daily-li
 
 **After installing**
 {% highlight comments %}
-$sudo apt-get clean all
-$sudo apt-get upgrade
-$sudo apt-get update
+sudo apt-get clean all
+sudo apt-get update
+sudo apt-get upgrade
 {% endhighlight %}
 
 **OR**
 
 {% highlight comments %}
-$sudo apt-get clean all && sudo apt-get upgrade && sudo apt-get update
+sudo apt-get clean all; sudo apt-get update; sudo apt-get upgrade
 {% endhighlight %}
+
+**Ubuntu 16.04 LTS release**
+You can download this ubuntu from this [link](http://www.ubuntu.com/download/desktop)
