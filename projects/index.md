@@ -33,4 +33,4 @@ UI Developer, Drupal Developer [Rayvarz Software Engineering Company](http://ray
 
 
 # FlyFish 2D android game
-Develope and design android 2d an game, FlyFish released on IranApps [FlyFish Game on IranApp.com Application store](http://iranapps.ir/app/com.pooya.FlyFish)
+Develope and design  2D android game, FlyFish released on IranApps [FlyFish Game on IranApp.com Application store](http://iranapps.ir/app/com.pooya.FlyFish)
