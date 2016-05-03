@@ -1,4 +1,5 @@
-# My new website base on jekyll 
+# My new website base on jekyll
+I'm Pooya Golchian, who loves OpenSource and Programming.
 
 ## Notable features:
 
@@ -9,5 +10,6 @@
 * Optional large feature images for posts and pages.
 * Support for Disqus Comments
 
-
 See a [live version of My New Jekyll Theme](http://pooya-golchian.github.io)
+
+Fork and enjoy!
