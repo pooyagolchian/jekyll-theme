@@ -1,7 +1,7 @@
 # My new website base on jekyll
 I'm Pooya Golchian, who loves OpenSource and Programming.
 
-See my weblog and projects [pooyagolchianir](http://pooya-golchian.github.io)
+See my weblog and projects [pooyagolchian.ir](http://pooya-golchian.github.io)
 
 This theme base on jekell, bourbon, neat, sass.
 
