@@ -17,8 +17,8 @@ You can FORK this [repo](https://github.com/pooya-golchian/pooya-golchian.github
 Senior UI developer, Drupal developer, Linux Admin at [axprint.com](http://axprint.com). 5 Sep 2015 - NOW
 
 ## My project in axprint:
-* **Build [blog.axprint.com](http://blog.axprint.com)**
-* **Redesign [axprint.com](http://axprint.com)**
+* **Build** [blog.axprint.com](http://blog.axprint.com)
+* **Redesign** [axprint.com](http://axprint.com)
 * **Build axprint campaign landing page**
     - [axprint.com/landing/loveday94/](http://axprint.com/landing/loveday94/)  
     - [axprint.com/landing/pishgaman/](http://axprint.com/landing/pishgaman/)
@@ -29,7 +29,7 @@ UI Developer, Drupal Developer [Rayvarz Software Engineering Company](http://ray
 
 
 ## My project in Rayvarz:
-* **Build and design [Rayvarz BPMS Portal drupal base](http://bpms.rayvarz.com)**
+* **Build and design** [Rayvarz BPMS Portal drupal base](http://bpms.rayvarz.com)
 
 
 # FlyFish 2D android game
