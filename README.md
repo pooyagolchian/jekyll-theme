@@ -5,10 +5,10 @@ See my weblog and projects  >>>>> [pooyagolchian.ir](http://pooya-golchian.githu
 
 This theme base on jekell, bourbon, neat, sass.
 
-## Notable features:
+## Features:
 
 * Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates. Looks good on mobile, tablet, and desktop devices.
+* Responsive templates.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
 * Minimal embellishments and subtle animations.
 * Optional large feature images for posts and pages.
