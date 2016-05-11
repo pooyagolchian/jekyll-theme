@@ -43,16 +43,3 @@ sudo wget https://fpdownload.adobe.com/get/flashplayer/pdc/11.2.202.577/install_
 {% highlight comments %}
 sudo cp libflashplayer.so /usr/lib/mozilla/plugins/
 {% endhighlight %}
-
-**2. Install Flash Player**
-
-{% highlight comments %}
-sudo apt-get install flashplugin-installer
-{% endhighlight %}
-Downlaod .tar.gz package of flash
-{% highlight comments %}
-sudo wget https://fpdownload.adobe.com/get/flashplayer/pdc/11.2.202.577/install_flash_player_11_linux.x86_64.tar.gz
-{% endhighlight %}
-{% highlight comments %}
-sudo cp libflashplayer.so /usr/lib/mozilla/plugins/
-{% endhighlight %}
