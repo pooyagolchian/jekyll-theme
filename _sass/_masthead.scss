@@ -34,15 +34,7 @@
     height: 100px;
     @include animation-duration(1s);
       @include animation-delay(.05s);
-      border: 4px solid $black;
-      @include rounded(100px); /* crops in a circle */
-    @include media($medium) {
-
-      @include rounded(150px); /* crops in a circle */
-    }
-    @include media($large) {
-      @include rounded(200px); /* crops in a circle */
-    }
+      border: 2px solid $black;
   }
 }
 
