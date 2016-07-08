@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Projects
-excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
+excerpt: "My projects"
 modified: 2016-01-19
 image:
   feature: bg4.jpg
