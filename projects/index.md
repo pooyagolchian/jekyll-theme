@@ -20,9 +20,11 @@ Senior UI developer, Drupal developer, Linux Admin at [axprint.com](http://axpri
 * **Build** [blog.axprint.com](http://blog.axprint.com)
 * **Redesign** [axprint.com](http://axprint.com)
 * **Build axprint campaign landing page**
-    - [axprint.com/landing/loveday94/](http://axprint.com/landing/loveday94/)  
-    - [axprint.com/landing/pishgaman/](http://axprint.com/landing/pishgaman/)
-    - [axprint.com/landing/coldseason/](http://axprint.com/landing/coldseason/)
+    - [Axprint coldseason campaign](http://axprint.com/landing/coldseason)
+    - [Axprint pishgaman campaign](http://axprint.com/landing/pishgaman)
+    - [Axprint Alibaba campaign](http://axprint.com/landing/alibaba)  
+    - [Axprint Valentine's Day campaign](http://axprint.com/landing/loveday94)  
+    - [Axprint fetr95 campaign](http://www.axprint.com/landing/fetr95/)
 
 # Rayvarz Software Engineering Company
 UI Developer, Drupal Developer [Rayvarz Software Engineering Company](http://rayvarz.com) - 1year
