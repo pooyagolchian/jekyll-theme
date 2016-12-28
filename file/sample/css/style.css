@@ -1,0 +1,388 @@
+html {
+  box-sizing: border-box; }
+
+*, *::after, *::before {
+  box-sizing: inherit; }
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+  appearance: none;
+  background-color: #1565c0;
+  border: 0;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: IRANSans;
+  font-size: 1em;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.75em 1.5em;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 150ms ease;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap; }
+  button:hover, button:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:focus {
+    background-color: #11519a;
+    color: #fff; }
+  button:disabled, input[type="button"]:disabled, input[type="reset"]:disabled, input[type="submit"]:disabled {
+    cursor: not-allowed;
+    opacity: 0.5; }
+    button:disabled:hover, input[type="button"]:disabled:hover, input[type="reset"]:disabled:hover, input[type="submit"]:disabled:hover {
+      background-color: #1565c0; }
+
+fieldset {
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  padding: 0; }
+
+legend {
+  font-weight: 600;
+  margin-bottom: 0.375em;
+  padding: 0; }
+
+label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.375em; }
+
+input,
+select,
+textarea {
+  display: block;
+  font-family: IRANSans;
+  font-size: 1em; }
+
+input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], input:not([type]), textarea {
+  appearance: none;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06);
+  box-sizing: border-box;
+  margin-bottom: 0.75em;
+  padding: 0.5em;
+  transition: border-color 150ms ease;
+  width: 100%; }
+  input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="email"]:hover, input[type="month"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="time"]:hover, input[type="url"]:hover, input[type="week"]:hover, input:not([type]):hover, textarea:hover {
+    border-color: #b1b1b1; }
+  input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="email"]:focus, input[type="month"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="week"]:focus, input:not([type]):focus, textarea:focus {
+    border-color: #1565c0;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(18, 89, 169, 0.7);
+    outline: none; }
+  input[type="color"]:disabled, input[type="date"]:disabled, input[type="datetime"]:disabled, input[type="datetime-local"]:disabled, input[type="email"]:disabled, input[type="month"]:disabled, input[type="number"]:disabled, input[type="password"]:disabled, input[type="search"]:disabled, input[type="tel"]:disabled, input[type="text"]:disabled, input[type="time"]:disabled, input[type="url"]:disabled, input[type="week"]:disabled, input:not([type]):disabled, textarea:disabled {
+    background-color: #f2f2f2;
+    cursor: not-allowed; }
+    input[type="color"]:disabled:hover, input[type="date"]:disabled:hover, input[type="datetime"]:disabled:hover, input[type="datetime-local"]:disabled:hover, input[type="email"]:disabled:hover, input[type="month"]:disabled:hover, input[type="number"]:disabled:hover, input[type="password"]:disabled:hover, input[type="search"]:disabled:hover, input[type="tel"]:disabled:hover, input[type="text"]:disabled:hover, input[type="time"]:disabled:hover, input[type="url"]:disabled:hover, input[type="week"]:disabled:hover, input:not([type]):disabled:hover, textarea:disabled:hover {
+      border: 1px solid #ddd; }
+  input[type="color"]::placeholder, input[type="date"]::placeholder, input[type="datetime"]::placeholder, input[type="datetime-local"]::placeholder, input[type="email"]::placeholder, input[type="month"]::placeholder, input[type="number"]::placeholder, input[type="password"]::placeholder, input[type="search"]::placeholder, input[type="tel"]::placeholder, input[type="text"]::placeholder, input[type="time"]::placeholder, input[type="url"]::placeholder, input[type="week"]::placeholder, input:not([type])::placeholder, textarea::placeholder {
+    color: #858585; }
+
+textarea {
+  resize: vertical; }
+
+[type="checkbox"],
+[type="radio"] {
+  display: inline;
+  margin-right: 0.375em; }
+
+[type="file"] {
+  margin-bottom: 0.75em;
+  width: 100%; }
+
+select {
+  margin-bottom: 0.75em;
+  width: 100%; }
+
+html {
+  box-sizing: border-box; }
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit; }
+
+html,
+body {
+  height: 100%; }
+
+ul,
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+dl {
+  margin: 0; }
+
+dt {
+  font-weight: 600;
+  margin: 0; }
+
+dd {
+  margin: 0; }
+
+figure {
+  margin: 0; }
+
+img,
+picture {
+  margin: 0;
+  max-width: 100%; }
+
+table {
+  border-collapse: collapse;
+  margin: 0.75em 0;
+  table-layout: fixed;
+  width: 100%; }
+
+th {
+  border-bottom: 1px solid #a6a6a6;
+  font-weight: 600;
+  padding: 0.75em 0;
+  text-align: left; }
+
+td {
+  border-bottom: 1px solid #ddd;
+  padding: 0.75em 0; }
+
+tr,
+td,
+th {
+  vertical-align: middle; }
+
+body {
+  color: #333;
+  font-family: IRANSans;
+  font-size: 1em;
+  line-height: 1.5; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: IRANSans;
+  font-size: 1.333em;
+  line-height: 1.2;
+  margin: 0 0 0.75em; }
+
+p {
+  margin: 0 0 0.75em; }
+
+a {
+  color: #1565c0;
+  text-decoration: none;
+  transition: color 150ms ease; }
+  a:active, a:focus, a:hover {
+    color: #104c90; }
+
+hr {
+  border-bottom: 1px solid #ddd;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  margin: 1.5em 0; }
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  direction: rtl; }
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "IRANSans";
+  font-weight: normal;
+  font-size: 14px;
+  background: #f2f2f2; }
+
+a {
+  outline: 0;
+  text-decoration: none;
+  color: #cdc755;
+  white-space: normal; }
+  a:hover, a:active a:focus, a:after, a:before {
+    outline: 0;
+    text-decoration: none;
+    color: #333; }
+
+fieldset {
+  border: 0; }
+
+select {
+  display: inline-block; }
+
+.wrapper {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 999; }
+  .wrapper::after {
+    clear: both;
+    content: "";
+    display: block; }
+  .wrapper::after {
+    clear: both;
+    content: "";
+    display: block; }
+
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/eot/IRANSansWeb_Bold.eot");
+  src: url("../fonts/eot/IRANSansWeb_Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/IRANSansWeb_Bold.woff2") format("woff2"), url("../fonts/woff/IRANSansWeb_Bold.woff") format("woff"), url("../fonts/ttf/IRANSansWeb_Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/eot/IRANSansWeb_Medium.eot");
+  src: url("../fonts/eot/IRANSansWeb_Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/IRANSansWeb_Medium.woff2") format("woff2"), url("../fonts/woff/IRANSansWeb_Medium.woff") format("woff"), url("../fonts/ttf/IRANSansWeb_Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/eot/IRANSansWeb_Light.eot");
+  src: url("../fonts/eot/IRANSansWeb_Light.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/IRANSansWeb_Light.woff2") format("woff2"), url("../fonts/woff/IRANSansWeb_Light.woff") format("woff"), url("../fonts/ttf/IRANSansWeb_Light.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts/eot/IRANSansWeb_UltraLight.eot");
+  src: url("../fonts/eot/IRANSansWeb_UltraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/IRANSansWeb_UltraLight.woff2") format("woff2"), url("../fonts/woff/IRANSansWeb_UltraLight.woff") format("woff"), url("../fonts/ttf/IRANSansWeb_UltraLight.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/eot/IRANSansWeb.eot");
+  src: url("../fonts/eot/IRANSansWeb.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/IRANSansWeb.woff2") format("woff2"), url("../fonts/woff/IRANSansWeb.woff") format("woff"), url("../fonts/ttf/IRANSansWeb.ttf") format("truetype"); }
+.deal-section {
+  float: right;
+  display: block;
+  margin-left: 2.35765%;
+  width: 100%;
+  display: block;
+  direction: rtl; }
+  .deal-section:last-child {
+    margin-left: 0; }
+  .deal-section::after {
+    clear: both;
+    content: "";
+    display: block; }
+  .deal-section .deals {
+    align-items: stretch;
+    clear: both;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: right; }
+    .deal-section .deals::after {
+      clear: both;
+      content: "";
+      display: block; }
+    .deal-section .deals:hover > .deal:hover .deal-price .deal-btn-section .deal-btn {
+      color: #000000;
+      background: #f2f2f2;
+      border: 2px dashed #999; }
+    .deal-section .deals .deal {
+      align-self: stretch;
+      background: #fff;
+      border-radius: 3px;
+      display: block;
+      flex: 4 4 15em;
+      margin: 0.809em;
+      text-decoration: none;
+      transition: all 0.2s ease-in-out;
+      color: gray; }
+      .deal-section .deals .deal:hover {
+        box-shadow: 0 2px 4px #cccccc; }
+      .deal-section .deals .deal .deal-img-section {
+        position: relative; }
+        .deal-section .deals .deal .deal-img-section .deal-img {
+          display: block;
+          width: 100%;
+          overflow: hidden; }
+        .deal-section .deals .deal .deal-img-section .deal-img-text {
+          position: absolute;
+          bottom: 0;
+          right: 0;
+          background-color: rgba(255, 75, 80, 0.7);
+          color: #fff;
+          padding: 0.30902em; }
+      .deal-section .deals .deal .deal-text {
+        padding: 1.1326em; }
+        .deal-section .deals .deal .deal-text .deal-text-header {
+          display: block;
+          font-size: 1.0664em;
+          margin-bottom: 1.2944em;
+          color: #000000;
+          font-weight: 500; }
+        .deal-section .deals .deal .deal-text .deal-info {
+          display: block;
+          width: 100%;
+          margin-bottom: 0.4854em;
+          float: right; }
+          .deal-section .deals .deal .deal-text .deal-info .deal-text-off {
+            float: left;
+            font-size: 1.333em;
+            color: #ff4b50;
+            font-weight: 500; }
+          .deal-section .deals .deal .deal-text .deal-info .deal-text-address {
+            float: right; }
+            .deal-section .deals .deal .deal-text .deal-info .deal-text-address img {
+              width: 20px;
+              height: 20px; }
+        .deal-section .deals .deal .deal-text .deal-price {
+          float: left;
+          display: block;
+          width: 100%;
+          margin-bottom: 0.4854em; }
+          .deal-section .deals .deal .deal-text .deal-price .deal-oldprice {
+            text-decoration: line-through;
+            display: block;
+            width: 100%;
+            text-align: left; }
+          .deal-section .deals .deal .deal-text .deal-price .deal-newprice {
+            color: #00B230;
+            font-size: 1.333em;
+            font-weight: 500;
+            float: left; }
+          .deal-section .deals .deal .deal-text .deal-price .deal-btn-section {
+            float: right;
+            text-align: center;
+            margin: -0.809em auto; }
+            .deal-section .deals .deal .deal-text .deal-price .deal-btn-section .deal-btn {
+              font: inherit;
+              padding: 0.30902em;
+              border-radius: 3px;
+              border: none;
+              display: inline-block;
+              cursor: pointer;
+              color: #999;
+              border: 2px dashed transparent;
+              background: none;
+              -webkit-transition: all, 0.1s;
+              -moz-transition: all, 0.1s;
+              transition: all, 0.1s; }
+              .deal-section .deals .deal .deal-text .deal-price .deal-btn-section .deal-btn:disabled {
+                cursor: not-allowed; }
+              .deal-section .deals .deal .deal-text .deal-price .deal-btn-section .deal-btn:focus {
+                outline: none; }
+              .deal-section .deals .deal .deal-text .deal-price .deal-btn-section .deal-btn:active:not(:disabled) {
+                box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.3); }
+        .deal-section .deals .deal .deal-text .deal-date {
+          display: block;
+          width: 100%;
+          float: right;
+          margin: 0.809em auto; }
+          .deal-section .deals .deal .deal-text .deal-date .deal-date-date {
+            float: left; }
+
+/*# sourceMappingURL=style.css.map */
