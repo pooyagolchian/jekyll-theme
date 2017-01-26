@@ -15,6 +15,8 @@ image:
 
 
 ## Hire Me
-You can see my resume and hiring me!
+You can see [my projects]({{ site.url }}/projects) and hiring me!
+
+<a markdown="0" href="https://t.me/iCoder" class="btn"><i class="fa fa-telegram"></i> Say hello in Telegram</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
