@@ -25,4 +25,4 @@ This redesign is very clean and and consider the following has:
 * Golden Ratio, boxes, and all style such as padding, margins, ...,
 * ModularScale font and typography,
 * Use the appropriate picture page content,
-* Use modern design and clean and white spaces.
+* Use modern design.
