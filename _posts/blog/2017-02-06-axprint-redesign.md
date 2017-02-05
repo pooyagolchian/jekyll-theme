@@ -12,7 +12,7 @@ date: 2017-02-06T01:06:22+03:30
 
 ## Redesign Axprint and Bring Art and Photo to Code!
 
-I'm redesign [axprint.com](http://axprint.com). Old version of this site hosted on this URL [Old axprint](http://wwww.axprint.com:8085).
+I'm redesign [axprint.com](http://axprint.com). Old version of this site hosted on this URL [Old axprint](http://www.axprint.com:8085).
 
 I've used very useful and modern technology for redesign axprint such as:
 
