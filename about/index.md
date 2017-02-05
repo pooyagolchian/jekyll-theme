@@ -22,6 +22,10 @@ image:
 * Coffee.
 * BodyBuilding and cooking!
 * GitHub and Blogging.
+* Photography with mobile and My Canon PowerShotSX20.
+* Bring my idea to code!
+* Love my work and computer science.
+* Digital Marketing.
 
 ## Hire Me
 You can see [my projects]({{ site.url }}/projects) and hiring me!
