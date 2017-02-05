@@ -4,7 +4,7 @@ title:  About Me
 excerpt: "Pooya Golchian about/resume"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: bg3.jpg
+  <!-- feature: bg3.jpg -->
   <!--credit: OpenSource!-->
   <!--creditlink: -->
 ---
