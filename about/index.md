@@ -13,10 +13,17 @@ image:
 * Born 1990 in tehran/IRAN.
 * Masters of Computer & Software engineering, Karaj Islamic Azad University, 2014–NOW
 
+## Interesting
+* Web development and programming.
+* OpenSource and Linux.
+* Art and modern digital design.
+* Game development and game logic.
+* JavaScript.
+* Coffee.
+* BodyBuilding and cooking!
+* GitHub and Blogging.
 
 ## Hire Me
 You can see [my projects]({{ site.url }}/projects) and hiring me!
 
 <a markdown="0" href="https://t.me/iCoder" class="btn"><i class="fa fa-telegram"></i> Say hello in Telegram</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
