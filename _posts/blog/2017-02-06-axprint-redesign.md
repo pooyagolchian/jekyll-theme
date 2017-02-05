@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Axprint-redesign
+title: Axprint Redesign
 modified:
 categories: blog
 excerpt:
