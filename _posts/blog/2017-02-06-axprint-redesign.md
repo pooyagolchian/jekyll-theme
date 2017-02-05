@@ -4,7 +4,7 @@ title: Axprint Redesign
 modified:
 categories: blog
 excerpt:
-tags: [Axprint Redesign, Front-End]
+tags: [Redesign, Front-End]
 image:
   feature:
 date: 2017-02-06T01:06:22+03:30
