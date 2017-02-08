@@ -5,6 +5,9 @@ modified:
 categories: blog
 excerpt:
 tags: [Redesign, Front-End]
+comments: true
+share: true
+author: pooya_golchian
 image:
   feature:
 date: 2017-02-06T01:06:22+03:30
