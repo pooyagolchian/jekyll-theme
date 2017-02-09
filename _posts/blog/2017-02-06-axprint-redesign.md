@@ -23,7 +23,7 @@ I've used very useful and modern technology for redesign axprint such as:
 * Grunt,
 * FlexBox to grid system and product style mixin.
 
-This redesign is very clean and and consider the following has:
+This redesign is very clean and consider the following has:
 
 * Golden Ratio, boxes, and all style such as padding, margins, ...,
 * ModularScale font and typography,
