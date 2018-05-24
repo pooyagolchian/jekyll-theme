@@ -16,4 +16,19 @@ This theme base on jekell, bourbon, neat, sass.
 
 See a [live version of My New Jekyll Theme](http://pooya-golchian.github.io)
 
+
+
+
+
+# How to build and serve projects
+* serve project ``` bundle exec jekyll serve ``` <br/>
+* build project ``` bundle exec jekyll build ``` <br/>
+
+# Add new post 
+
+
+* Add new post from categories <br/>
+``` bundle exec octopress new post "post name" --dir categoties like blog ```
+
+
 Fork and enjoy!
