@@ -10,7 +10,7 @@ image:
 ---
 ## I'm Pooya Golchian, <br />
 * Born 1990 in tehran/IRAN.<br />
-* Masters of Computer & Software engineering, Karaj Islamic Azad University, 2014–NOW.
+* Masters of Computer & Software engineering, Islamic Azad University, 2014-2017.
 
 ## My Projects <br/>
 You can see [my projects]({{ site.url }}/projects).
