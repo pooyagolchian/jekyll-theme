@@ -31,3 +31,4 @@ image:
 You can see [my projects]({{ site.url }}/projects) and hiring me!
 
 <a markdown="0" href="https://t.me/iCoder" class="btn"><i class="fa fa-telegram"></i> Say hello in Telegram</a>
+<a markdown="0" href="pooyagolchian.ir/file/cv.pdf" class="btn"><i class="fa fa-eye"></i> See my CV</a>

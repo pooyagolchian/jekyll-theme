@@ -12,8 +12,8 @@
 - title: About
   url: /about/
 
-- title: Search
-  url: /search/
+# - title: Search
+#   url: /search/
 
 - title: Farsi
   url: http://pooyagolchian.ir/farsi/
