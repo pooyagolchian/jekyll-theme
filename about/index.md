@@ -8,27 +8,15 @@ image:
   <!--credit: OpenSource!-->
   <!--creditlink: -->
 ---
-## I'm Pooya Golchian,
+## I'm Pooya Golchian, <br />
+* Born 1990 in tehran/IRAN.<br />
+* Masters of Computer & Software engineering, Karaj Islamic Azad University, 2014–NOW.
 
-* Born 1990 in tehran/IRAN.
-* Masters of Computer & Software engineering, Karaj Islamic Azad University, 2014–NOW
-
-## Interesting
-* Web development and programming.
-* OpenSource and Linux.
-* Art and modern digital design.
-* Game development and game logic.
-* JavaScript.
-* Coffee.
-* BodyBuilding and cooking!
-* GitHub and Blogging.
-* Photography with mobile and My Canon PowerShotSX20.
-* Bring my idea to code!
-* Love my work and computer science.
-* Digital Marketing.
-
-## Hire Me
-You can see [my projects]({{ site.url }}/projects) and hiring me!
+## My Projects <br/>
+You can see [my projects]({{ site.url }}/projects).
 
 <a markdown="0" href="https://t.me/iCoder" class="btn"><i class="fa fa-telegram"></i> Say hello in Telegram</a>
-<a markdown="0" href="pooyagolchian.ir/file/cv.pdf" class="btn"><i class="fa fa-eye"></i> See my CV</a>
+<a markdown="0" href="/file/cv.pdf" class="btn"><i class="fa fa-eye"></i> See my CV</a>
+
+
+
