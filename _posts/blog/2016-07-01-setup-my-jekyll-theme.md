@@ -21,22 +21,22 @@ General notes and suggestions for customizing **My Jekyll Theme**.
 
 ## Installation
 
-So Simple now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
+My theme now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
 
-If you are creating a new Jekyll site using So Simple follow these steps:
+If you are creating a new Jekyll site using My Theme follow these steps:
 
 1. Fork the [My Theme repo](https://github.com/pooya-golchian/pooya-golchian.github.io/fork).
 2. Clone the repo you just forked and rename it.
 3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install Jekyll and all dependencies.
 4. Update `_config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
 
-If you want to use So Simple with an existing Jekyll site follow these steps:
+If you want to use My Theme with an existing Jekyll site follow these steps:
 
 1. [Download My theme](https://codeload.github.com/pooya-golchian/pooya-golchian.github.io/zip/master) and unzip.
 2. Rename `pooya-golchian.github.io` to something meaningful ie: `new-site`
 3. Run `bundle install` to install Jekyll and all dependencies.
 4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
-5. Update posts' and pages' YAML to match variables used by So Simple. Full details below.
+5. Update posts' and pages' YAML to match variables used by My Theme. Full details below.
 6. Update `_config.yml` and add navigation links and additional author data if applicable. Full details below.
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
@@ -62,7 +62,7 @@ bundle exec jekyll serve
 
 ## Scaffolding
 
-How So Simple is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
+How My Theme is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
 
 ```bash
 so-simple-theme/
@@ -214,7 +214,7 @@ Not sure if this only effects Kramdown or if it's an issue with Markdown in gene
 
 ### Link Post Type
 
-So Simple Theme supports **link posts**, made famous by John Gruber. To activate just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done. Here's an [example of a link post]({{ site.url }}/articles/sample-link-post) if you need a visual.
+My Theme Theme supports **link posts**, made famous by John Gruber. To activate just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done. Here's an [example of a link post]({{ site.url }}/articles/sample-link-post) if you need a visual.
 
 ### Author Override
 
