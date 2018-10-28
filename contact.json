@@ -1,0 +1,248 @@
+{
+"data": {
+"contacts": [
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "gender": "Male",
+    "age" : "45",
+    "company": "United States",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+ {
+   "id":2,
+    "name": "Barack Obama",
+    "gender": "Male",
+    "age" : "33",
+        "company": "United States",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+{
+  "id":3,
+    "name": "Fake 1",
+    "gender": "Male",
+    "age" : "33",
+    "company": "United States",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+{
+  "id":4,
+    "name": "Fake 2",
+    "gender": "Male",
+    "age" : "33",
+    "company": "United States",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+{
+  "id":5,
+    "name": "Fake 3",
+    "gender": "Male",
+    "age" : "33",
+    "company": "United States",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+{
+  "id":6,
+    "name": "Fake 4",
+    "gender": "Male",
+    "age" : "33",
+    "company": "United States",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+{
+  "id":7,
+    "name": "Fake 5",
+    "gender": "Male",
+    "age" : "33",
+    "company": "United States",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+{
+  "id":8,
+    "name": "Fake 6",
+    "gender": "Male",
+    "age" : "33",
+    "company": "United States",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+{
+  "id":9,
+    "name": "Fake 7",
+    "gender": "Male",
+    "age" : "28",
+    "company": "Command Line",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 2548
+  },
+  {
+    "id":10,
+    "name": "Fake 8",
+    "gender": "Female",
+    "age" : "33",
+    "company": "White House",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 2419
+  },
+  {
+    "id":11,
+    "name": "Fake 9",
+    "gender": "Female",
+    "age" : "45",
+    "company": "Home",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 2467
+  },
+  {
+    "id":12,
+    "name": "Fake 10",
+    "gender": "Male",
+    "age" : "45",
+    "company": "Chuki Beat Records",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+  {
+    "id":13,
+    "name": "Fake 11",
+    "gender": "Male",
+    "age" : "45",
+    "company": "Chuki Beat Records",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+  {
+    "id":14,
+    "name": "Fake 12",
+    "gender": "Male",
+    "age" : "45",
+    "company": "Chuki Beat Records",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+  {
+    "id":15,
+    "name": "Fake 13",
+    "gender": "Male",
+    "age" : "45",
+    "company": "Chuki Beat Records",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  },
+  {
+    "id":16,
+    "name": "Fake 14",
+    "gender": "Male",
+    "age" : "45",
+    "company": "Chuki Beat Records",
+    "avatar" : "http://i.pravatar.cc/300",
+    "phone": 5898
+  }
+],
+"company":[
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  },
+  {
+    "id":1,
+    "name": "Donald Trump",
+    "address": "United States",
+    "logo" : "http://i.pravatar.cc/300",
+    "phone": 5898,
+    "type" : ["typeOne", "typeTwo"]
+  }
+]
+}
+}
