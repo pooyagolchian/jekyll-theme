@@ -7,6 +7,8 @@
     "gender": "Male",
     "age" : "45",
     "company": "United States",
+    "position":"CEO Manager",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -15,7 +17,9 @@
     "name": "Barack Obama",
     "gender": "Male",
     "age" : "33",
-        "company": "United States",
+    "company": "United States",
+    "position":"CEO Manager",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -25,6 +29,8 @@
     "gender": "Male",
     "age" : "33",
     "company": "United States",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -34,6 +40,8 @@
     "gender": "Male",
     "age" : "33",
     "company": "United States",
+    "position":"CEO Manager",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -43,6 +51,8 @@
     "gender": "Male",
     "age" : "33",
     "company": "United States",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -52,6 +62,8 @@
     "gender": "Male",
     "age" : "33",
     "company": "United States",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -61,6 +73,8 @@
     "gender": "Male",
     "age" : "33",
     "company": "United States",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -70,6 +84,8 @@
     "gender": "Male",
     "age" : "33",
     "company": "United States",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -79,6 +95,8 @@
     "gender": "Male",
     "age" : "28",
     "company": "Command Line",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 2548
   },
@@ -88,6 +106,8 @@
     "gender": "Female",
     "age" : "33",
     "company": "White House",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager", 
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 2419
   },
@@ -97,6 +117,8 @@
     "gender": "Female",
     "age" : "45",
     "company": "Home",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 2467
   },
@@ -106,6 +128,8 @@
     "gender": "Male",
     "age" : "45",
     "company": "Chuki Beat Records",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
+    "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
   },
@@ -114,6 +138,8 @@
     "name": "Fake 11",
     "gender": "Male",
     "age" : "45",
+    "position":"CEO Manager",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "company": "Chuki Beat Records",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
@@ -123,6 +149,8 @@
     "name": "Fake 12",
     "gender": "Male",
     "age" : "45",
+    "position":"CEO Manager",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "company": "Chuki Beat Records",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
@@ -132,6 +160,8 @@
     "name": "Fake 13",
     "gender": "Male",
     "age" : "45",
+    "position":"CEO Manager",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "company": "Chuki Beat Records",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
@@ -141,6 +171,8 @@
     "name": "Fake 14",
     "gender": "Male",
     "age" : "45",
+    "position":"CEO Manager",
+    "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "company": "Chuki Beat Records",
     "avatar" : "http://i.pravatar.cc/300",
     "phone": 5898
