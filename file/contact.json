@@ -10,7 +10,8 @@
     "position":"CEO Manager",
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
  {
    "id":2,
@@ -21,7 +22,8 @@
     "position":"CEO Manager",
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
 {
   "id":3,
@@ -32,7 +34,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
 {
   "id":4,
@@ -43,7 +46,8 @@
     "position":"CEO Manager",
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
 {
   "id":5,
@@ -54,7 +58,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
 {
   "id":6,
@@ -65,7 +70,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
 {
   "id":7,
@@ -76,7 +82,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
 {
   "id":8,
@@ -87,7 +94,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
 {
   "id":9,
@@ -98,7 +106,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 2548
+    "phone": 2548,
+    "email": "john@doe.com"
   },
   {
     "id":10,
@@ -109,7 +118,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager", 
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 2419
+    "phone": 2419,
+    "email": "john@doe.com"
   },
   {
     "id":11,
@@ -120,7 +130,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 2467
+    "phone": 2467,
+    "email": "john@doe.com"
   },
   {
     "id":12,
@@ -131,7 +142,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "position":"CEO Manager",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
   {
     "id":13,
@@ -142,7 +154,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "company": "Chuki Beat Records",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
   {
     "id":14,
@@ -153,7 +166,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "company": "Chuki Beat Records",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
   {
     "id":15,
@@ -164,7 +178,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "company": "Chuki Beat Records",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   },
   {
     "id":16,
@@ -175,7 +190,8 @@
     "address": "IRAN, Tehran, Fatemi, BabaTaher, Nader block NO.4",
     "company": "Chuki Beat Records",
     "avatar" : "http://i.pravatar.cc/300",
-    "phone": 5898
+    "phone": 5898,
+    "email": "john@doe.com"
   }
 ],
 "company":[
